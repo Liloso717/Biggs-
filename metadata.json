@@ -1,0 +1,6 @@
+{
+  "name": "Iron Meridian",
+  "description": "3D open-world island battle simulation on Aeris Island featuring 15 heroes against 15 villains, flight, powers, vehicles, and dynamic environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
